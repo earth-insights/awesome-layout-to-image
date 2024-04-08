@@ -11,6 +11,7 @@
 
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
+|**ReCo**|**ReCo: Region-Controlled Text-to-Image Generation**|CVPR2023|[ReCo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)|[link](https://github.com/microsoft/ReCo)
 
 ## key point to image
 
