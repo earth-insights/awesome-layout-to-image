@@ -12,6 +12,7 @@
 |Abbreviation|Title|Publication|Paper|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
 |**ReCo**|**ReCo: Region-Controlled Text-to-Image Generation**|CVPR2023|[ReCo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)|[link](https://github.com/microsoft/ReCo)
+|**SSMG**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-Form Layout-to-Image Generation**|AAAI2024|[SSMG](https://arxiv.org/pdf/2308.10156v2.pdf)|
 
 ## key point to image
 
