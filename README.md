@@ -10,6 +10,7 @@
 |**Dataset Diffusion**|text->image,mask|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|NIPS'2024|[Dataset Diffusion](https://arxiv.org/abs/2309.14303)|[link](https://github.com/VinAIResearch/Dataset-Diffusion)|
 |**FreeMask**|mask,text->image|**FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models**|NIPS'2024|[FreeMask](https://arxiv.org/abs/2310.15160)|[link](https://github.com/LiheYoung/FreeMask)|
 |**SatSynth**|->image,mask|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|CVPR'2024|[SatSynth](http://arxiv.org/abs/2403.16605)|/|
+|**ChangeAnywhere**|mask->image|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|arXiv'2024|[ChangeAnywhere](https://arxiv.org/abs/2404.08892)|[link](https://github.com/tangkai-RS/ChangeAnywhere)|
 
 ## bbox to image
 
