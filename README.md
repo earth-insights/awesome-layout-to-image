@@ -21,11 +21,12 @@
 
 ## bbox to image
 
-|Abbreviation|Title|Publication|Paper|Code|
-|:---:|---|:---:|:---:|:---:|
-|**ReCo**|**ReCo: Region-Controlled Text-to-Image Generation**|CVPR'2023|[ReCo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)|[link](https://github.com/microsoft/ReCo)
-|**SSMG**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-Form Layout-to-Image Generation**|AAAI'2024|[SSMG](https://arxiv.org/pdf/2308.10156v2.pdf)|
-|**LayoutDiff**|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|CVPR'2023|[LayoutDiff](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.html)|[link](https://github.com/ZGCTroy/LayoutDiffusion)
+|Abbreviation|Type|Title|Publication|Paper|Code|
+|:---:|:---:|---|:---:|:---:|:---:|
+|**ReCo**|layout,region caption->image|**ReCo: Region-Controlled Text-to-Image Generation**|CVPR'2023|[ReCo](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_ReCo_Region-Controlled_Text-to-Image_Generation_CVPR_2023_paper.pdf)|[link](https://github.com/microsoft/ReCo)
+|**SSMG**|layout,region caption->image|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-Form Layout-to-Image Generation**|AAAI'2024|[SSMG](https://arxiv.org/pdf/2308.10156v2.pdf)|
+|**LayoutDiff**|layout,instance class->image|**LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation**|CVPR'2023|[LayoutDiff](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_LayoutDiffusion_Controllable_Diffusion_Model_for_Layout-to-Image_Generation_CVPR_2023_paper.html)|[link](https://github.com/ZGCTroy/LayoutDiffusion)
+|**LAW-Diffusion**|layout,instance class->image|**LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts**|ICCV'2023|[LAW-Diffusion](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_LAW-Diffusion_Complex_Scene_Generation_by_Diffusion_with_Layouts_ICCV_2023_paper.pdf)|
 
 ## key point to image
 
