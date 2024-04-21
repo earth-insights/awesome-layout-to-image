@@ -12,7 +12,7 @@
 |**FreeMask**|mask,text->image|**FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models**|NIPS'2024|[FreeMask](https://arxiv.org/abs/2310.15160)|[link](https://github.com/LiheYoung/FreeMask)|
 |**Uni-ControlNet**|mask,(text)->image|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|NIPS'2024|[Uni-ControlNet](https://arxiv.org/abs/2305.16322)|[link](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)|
 |**SatSynth**|->image,mask|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|CVPR'2024|[SatSynth](http://arxiv.org/abs/2403.16605)|/|
-|**CRS-Diff**|mask,(text)->image|**CRS-Diff: Controllable Generative Remote Sensing Foundation Modeln**|arXiv'2024|[CRS-Diff](https://arxiv.org/abs/2403.11614)|/|
+|**CRS-Diff**|mask,(text)->image|**CRS-Diff: Controllable Generative Remote Sensing Foundation Modeln**|arXiv'2024|[CRS-Diff](https://arxiv.org/abs/2403.11614)|[link](https://github.com/Sonettoo/CRS-Diff)|
 |**ChangeAnywhere**|mask->image|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|arXiv'2024|[ChangeAnywhere](https://arxiv.org/abs/2404.08892)|[link](https://github.com/tangkai-RS/ChangeAnywhere)|
 
 ## bbox to image
