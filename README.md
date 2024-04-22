@@ -4,20 +4,26 @@
 
 <!-- ![img](https://i.imgur.com/Ky2jxnj.png) -->
 
+## multi-layout to image
+
+|    Abbreviation    |         Type         | Title                                                        | Publication |                            Paper                             |                          Code                           |
+| :----------------: | :------------------: | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :-----------------------------------------------------: |
+|   **ControlNet**   | layout,(text)->image | **Adding Conditional Control to Text-to-Image Diffusion Models** |  ICCV'2023  |        [ControlNet](https://arxiv.org/abs/2302.05543)        |    [link](https://github.com/lllyasviel/ControlNet)     |
+|  **T2I-Adapter**   | layout,(text)->image | **T2I-Adapter: Learning Adapters to Dig Out More Controllable Ability for Text-to-Image Diffusion Models** |  AAAI'2024  | [T2I-Adapter](https://ojs.aaai.org/index.php/AAAI/article/view/28226) |    [link](https://github.com/TencentARC/T2I-Adapter)    |
+| **Uni-ControlNet** | layout,(text)->image | **Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models** |  NIPS'2024  |      [Uni-ControlNet](https://arxiv.org/abs/2305.16322)      | [link](https://github.com/ShihaoZhaoZSH/Uni-ControlNet) |
+|    **CRS-Diff**    | layout,(text)->image | **CRS-Diff: Controllable Generative Remote Sensing Foundation Modeln** | arXiv'2024  |         [CRS-Diff](https://arxiv.org/abs/2403.11614)         |      [link](https://github.com/Sonettoo/CRS-Diff)       |
+
 ## mask to image
 
 |Abbreviation|Type|Title|Publication|Paper|Code|
 |:---:|:---:|---|:---:|:---:|:---:|
 |**OASIS**|mask->image|**You Only Need Adversarial Supervision for Semantic Image Synthesis**|ICLR'2021|[OASIS](https://arxiv.org/abs/2012.04781)|[link](https://github.com/boschresearch/OASIS)|
 |**FreestyleNet**|mask,text->image|**Freestyle Layout-to-Image Synthesis**|CVPR'2023|[FreestyleNet](https://arxiv.org/abs/2303.14412)|[link](https://github.com/essunny310/FreestyleNet)|
-|**ControlNet**|mask,(text)->image|**Adding Conditional Control to Text-to-Image Diffusion Models**|ICCV'2023|[ControlNet](https://arxiv.org/abs/2302.05543)|[link](https://github.com/lllyasviel/ControlNet)|
 |**Changen**|mask->image|**Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process**|ICCV'2023|[Changen](https://arxiv.org/abs/2309.17031)|[link](https://github.com/Z-Zheng/Changen)|
 |**Dataset Diffusion**|text->image,mask|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|NIPS'2024|[Dataset Diffusion](https://arxiv.org/abs/2309.14303)|[link](https://github.com/VinAIResearch/Dataset-Diffusion)|
 |**FreeMask**|mask,text->image|**FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models**|NIPS'2024|[FreeMask](https://arxiv.org/abs/2310.15160)|[link](https://github.com/LiheYoung/FreeMask)|
-|**Uni-ControlNet**|mask,(text)->image|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|NIPS'2024|[Uni-ControlNet](https://arxiv.org/abs/2305.16322)|[link](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)|
 |**ALDM**|mask,(text)->image|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|ICLR'2024|[ALDM](https://arxiv.org/abs/2401.08815)|[link](https://github.com/boschresearch/ALDM)|
 |**SatSynth**|->image,mask|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|CVPR'2024|[SatSynth](http://arxiv.org/abs/2403.16605)|/|
-|**CRS-Diff**|mask,(text)->image|**CRS-Diff: Controllable Generative Remote Sensing Foundation Modeln**|arXiv'2024|[CRS-Diff](https://arxiv.org/abs/2403.11614)|[link](https://github.com/Sonettoo/CRS-Diff)|
 |**ChangeAnywhere**|mask->image|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|arXiv'2024|[ChangeAnywhere](https://arxiv.org/abs/2404.08892)|[link](https://github.com/tangkai-RS/ChangeAnywhere)|
 
 ## bbox to image
