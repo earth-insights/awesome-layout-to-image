@@ -19,6 +19,7 @@
 |Abbreviation|Type|Title|Publication|Paper|Code|
 |:---:|:---:|---|:---:|:---:|:---:|
 |**OASIS**|mask->image|**You Only Need Adversarial Supervision for Semantic Image Synthesis**|ICLR'2021|[OASIS](https://arxiv.org/abs/2012.04781)|[link](https://github.com/boschresearch/OASIS)|
+|**/**|mask->image|**Mask Conditional Synthetic Satellite Imagery**|ICLRW'2023|[paper](https://arxiv.org/abs/2302.04305)|[link](https://github.com/ms-synthetic-satellite-image/synthetic-satellite-imagery)|
 |**FreestyleNet**|mask,text->image|**Freestyle Layout-to-Image Synthesis**|CVPR'2023|[FreestyleNet](https://arxiv.org/abs/2303.14412)|[link](https://github.com/essunny310/FreestyleNet)|
 |**Changen**|mask->image|**Scalable Multi-Temporal Remote Sensing Change Data Generation via Simulating Stochastic Change Process**|ICCV'2023|[Changen](https://arxiv.org/abs/2309.17031)|[link](https://github.com/Z-Zheng/Changen)|
 |**DP-SIMS**|mask->image|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|arXiv'2023|[DP-SIMS](https://arxiv.org/abs/2312.13314)|/|
