@@ -30,6 +30,7 @@
 |**ALDM**|mask,(text)->image|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|ICLR'2024|[ALDM](https://arxiv.org/abs/2401.08815)|[link](https://github.com/boschresearch/ALDM)|
 |**SatSynth**|->image,mask|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|CVPR'2024|[SatSynth](http://arxiv.org/abs/2403.16605)|/|
 |**PLACE**|mask,text->image|**PLACE: Adaptive Layout-Semantic Fusion for Semantic Image Synthesis**|CVPR'2024|[PLACE](https://arxiv.org/abs/2403.01852)|[link](https://github.com/cszy98/PLACE)|
+|**SCP-Diff**|mask,text->image|**SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical joint priors**|arXiv'2024|[SCP-Diff](https://arxiv.org/abs/2403.09638)|[link](https://air-discover.github.io/SCP-Diff/)|
 |**ChangeAnywhere**|mask->image|**ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model**|arXiv'2024|[ChangeAnywhere](https://arxiv.org/abs/2404.08892)|[link](https://github.com/tangkai-RS/ChangeAnywhere)|
 
 ## bbox to image
