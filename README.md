@@ -13,6 +13,7 @@
 | **Uni-ControlNet** | layout,(text)->image | **Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models** |  NIPS'2023  |      [Uni-ControlNet](https://arxiv.org/abs/2305.16322)      | [link](https://github.com/ShihaoZhaoZSH/Uni-ControlNet) |
 |    **CRS-Diff**    | layout,(text)->image | **CRS-Diff: Controllable Generative Remote Sensing Foundation Modeln** | arXiv'2024  |         [CRS-Diff](https://arxiv.org/abs/2403.11614)         |      [link](https://github.com/Sonettoo/CRS-Diff)       |
 |    **GeoSynth**    | layout,(text)->image | **GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis** | CVPRW'2024  |         [GeoSynth](https://arxiv.org/abs/2404.06637)         |        [link](https://github.com/mvrl/GeoSynth)         |
+|     **Ctrl-X**     | layout,(text)->image | **Ctrl-X: Controlling Structure and Appearance for Text-To-Image Generation Without Guidance** | arXiv'2024  |          [Ctrl-X](https://arxiv.org/abs/2406.07540)          |       [link](https://genforce.github.io/ctrl-x/)        |
 
 ## mask to image
 
